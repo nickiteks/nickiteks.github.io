@@ -1,0 +1,130 @@
+body
+{
+ margin: 0;
+}
+.button {
+ position: absolute;
+ left: 1200px;
+ bottom:50px;
+}
+.NewsName{
+ position: absolute;
+ height: 20px;
+ width: 344px;
+ left: 82px;
+ top: 130px;
+ border-radius: nullpx;
+ font-family: Abel;
+ font-style: normal;
+ font-weight: normal;
+ font-size: 24px;
+ line-height: 33px;
+
+ display: flex;
+ align-items: flex-end;
+
+ color: #373A3C;
+}
+.form-group{
+position: absolute;
+     width: 540px;
+     height: 38px;
+     left: 82px;
+     top: 159px;
+}
+.image{
+ position: absolute;
+ width: 255px;
+ height: 255px;
+ left: 762px;
+ top: 143px;
+ background: #777777;
+ border-radius: 4px;
+}
+.AddNews{
+ position: absolute;
+ width: 344px;
+ height: 20px;
+ left: 1028px;
+ top: 140px;
+
+ font-family: Abel;
+ font-style: normal;
+ font-weight: normal;
+ font-size: 24px;
+ line-height: 33px;
+
+ display: flex;
+ align-items: flex-end;
+
+ color: #373A3C;
+}
+.custom-file{
+ position: absolute;
+ width: 268px;
+ height: 38px;
+ left: 1028px;
+ top: 160px;
+}
+.about{
+position: absolute;
+ width: 344px;
+ height: 20px;
+ left: 1028px;
+ top: 250px;
+
+ font-family: Abel;
+ font-style: normal;
+ font-weight: normal;
+ font-size: 24px;
+ line-height: 33px;
+
+ display: flex;
+ align-items: flex-end;
+
+ color: #373A3C;
+
+ color: #373A3C;
+}
+.description{
+ position: absolute;
+ width: 318px;
+ height: 150px;
+ left: 1028px;
+ top: 270px;
+
+ background: #FFFFFF;
+}
+.content{
+ position: absolute;
+ width: 344px;
+ height: 20px;
+ left: 36px;
+ top: 398px;
+
+ font-family: Abel;
+ font-style: normal;
+ font-weight: normal;
+ font-size: 24px;
+ line-height: 33px;
+
+ display: flex;
+ align-items: flex-end;
+
+ color: #373A3C;
+}
+.contentText{
+ position: absolute;
+ width: 1367px;
+ height: 200px;
+ left: 36px;
+ top: 419.66px;
+
+ background: #FFFFFF;
+}
+.table {
+ position: absolute; /* Абсолютное позиционирование */
+ margin: 20px;
+ width: 870px;
+ height: 40px
+}
